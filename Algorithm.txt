@@ -1,0 +1,13 @@
+Each file ends with "EOF".
+Types:
+	0 >> Normal branch mine type. This is created by the program.
+	1 >> Spiral branch mine type. This is created by the program.
+	2 >> Custom branch mine type. This is defined by the user in the file.
+YLayers:
+	0-8 >> How many branch set layers will there be?
+Branch offset:
+	0-Spacing >> How will the branches at different y-layers be offsetted from each other?
+Type 1 specfic:
+	Fibonacci setting: Uses a fibonacci spiral branch mining technique.
+	Tunnel spacing: How far apart are the spacings (this will probably be 2)?
+	

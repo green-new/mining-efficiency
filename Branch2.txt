@@ -1,0 +1,7 @@
+Type=0
+YLayers=3
+BranchOffset=2
+Spacing=3
+Height=2
+Width=1
+EOF
